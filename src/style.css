@@ -25,14 +25,14 @@ nav {
     border-radius: 5px; /* Rounded corners */
     transition: background-color 0.3s ease; /* Smooth transition on hover */
   }
-  li button{
+  /* li button{
     text-decoration: none;
-    color: #fff; /* White text for buttons */
+    color: #fff; /* White text for buttons 
     padding: 10px 15px;
-    background-color: #3498db; /* Deep blue color for buttons */
-    border-radius: 5px; /* Rounded corners */
-    transition: background-color 0.3s ease; /* Smooth transition on hover */
-  }
+    background-color: #3498db; /* Deep blue color for buttons 
+    border-radius: 5px;
+    transition: background-color 0.3s ease;  Smooth transition on hover 
+  } */
   
   a:hover {
     background-color: #70a1ff; /* Lighter blue color on hover */
