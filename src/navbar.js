@@ -17,8 +17,8 @@ function Navbar({ onLoginClick, onSignUpClick }) {
           <li><a href="#contact">Contact Us</a></li>
           <li><a href="#menus">Menus</a></li>
           <li><a href="#about">About Us</a></li>
-          {/* <li><button onClick={onLoginClick}>Login</button></li>
-          <li><button onClick={onSignUpClick}>Sign Up</button></li> */}
+          <li><button onClick={onLoginClick}>Login</button></li>
+          <li><button onClick={onSignUpClick}>Sign Up</button></li>
         </ul>
       </nav>
     );
