@@ -12,7 +12,7 @@ const LoginForm = () => {
 
   return (
     <div>
-      <h2>Login</h2>
+      <h2 id='login'>Login</h2>
       <form>
         <label>Email:</label>
         <input type="email" value={email} onChange={(e) => setEmail(e.target.value)} />
